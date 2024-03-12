@@ -23,4 +23,9 @@ public class Controller01 {
         System.out.println("메소드3실행!");
     }
 
+    @RequestMapping("path5") // 맨 앞에 슬러시 생략 가능
+    public void method5(){
+        System.out.println("Controller01.method5");
+    }
+
 }
