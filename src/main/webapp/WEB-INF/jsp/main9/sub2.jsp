@@ -16,6 +16,7 @@
 <h1>${myName[1]}</h1>
 <h2>${yourEmail[0]}</h2>
 <h2>${yourEmail[2]}</h2>
-<h3>${herAddress[1]}</h3>
+<h3>${herAddress[0]}</h3>
+
 </body>
 </html>
